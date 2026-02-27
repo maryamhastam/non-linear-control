@@ -1,2 +1,3 @@
 # non-linear-control
 Designing a Sliding Mode Controller (SMC) for Equations of Motion of a Spacecraft Around an Asteroid (and it also has an adaptive controller as well :-))
+In this project, an SMC was designed and implemented to stabilize a spacecraft model derived from equations of motion under dynamic disturbances. The control system was enhanced by incorporating an adaptive mechanism to dynamically adjust key control parameters, reducing chattering, and improving robustness. Using MATLAB Simulink, the equations of motion were simulated, and the SMC was applied with adaptive gains to counteract the effects of gravitational variations and external torques.
